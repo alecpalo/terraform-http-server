@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/alecpalo/terraform-web-server/internal/provider"
+	"github.com/alecpalo/terraform-http-server/internal/provider"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 )
 
