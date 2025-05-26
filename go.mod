@@ -1,4 +1,4 @@
-module terraform-web-server
+module terraform-http-server
 
 go 1.24
 
